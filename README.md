@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Marek
 <!-- 👀 I’m interested in ... --->
-- 🌱 I’m currently learning how to improve peptide-MHC stability models.
+- 🌱 I’m currently working on nanobody de novo modeling for novel cancer targets. Previously worked on peptide-MHC binding stability models.
 <!-- 💞️ I’m looking to collaborate on ... --->
 - 📫 Reach me via email: marek.prachar@lilly.com
 - 😄 Pronouns: he/him
